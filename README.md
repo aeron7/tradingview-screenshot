@@ -1,6 +1,13 @@
 # tradingview-screenshot
 Capturing any Public Chart available in Tradingview
 
+## About Unofficed Community
+
+This tool has been developed to cater to the needs of the [Unofficed](https://www.unofficed.com/)  community. Unofficed is a vibrant community of traders, developers, and enthusiasts passionate about financial markets and trading strategies.
+
+Visit the [Unofficed Community Chat](https://www.unofficed.com/chat/) to engage in discussions, share insights, and collaborate with fellow members. Join the community to explore a wealth of knowledge and resources related to trading and financial markets.
+
+
 # TradingView Screenshot Capture
 
 ![TradingView Screenshot](m7azfyek.png)
