@@ -13,7 +13,7 @@ def capture_tradingview_screenshot(ticker='NONE'):
     chrome_options.add_argument('--disable-dev-shm-usage')
     chrome_options.add_argument('--force-dark-mode')
     chrome_options.add_argument("--disable-extensions")
-    chrome_options.add_argument("--window-size=894,579")
+    chrome_options.add_argument("--window-size=1280,720")
     
     driver = webdriver.Chrome(options=chrome_options)
     
