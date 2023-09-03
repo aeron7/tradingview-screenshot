@@ -79,3 +79,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Acknowledgments
 This script uses Selenium to automate web interactions with TradingView.
 Special thanks to the TradingView platform for providing valuable financial charting tools.
+
+## Tkinter Version of Clipboard
+
+There is another version of the program which is saved as `tview_tkinter.py`. It uses `tkinter` instead of `xclip`. 
+
+Unfortunately, both of the methods do not work using the Chrome headless version. 
