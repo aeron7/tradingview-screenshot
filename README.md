@@ -7,7 +7,6 @@ This tool has been developed to cater to the needs of the [Unofficed](https://ww
 
 Visit the [Unofficed Community Chat](https://www.unofficed.com/chat/) to engage in discussions, share insights, and collaborate with fellow members. Join the community to explore a wealth of knowledge and resources related to trading and financial markets.
 
-
 # TradingView Screenshot Capture
 
 ![TradingView Screenshot](m7azfyek.png)
