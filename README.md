@@ -16,6 +16,17 @@ Visit the [Unofficed Community Chat](https://www.unofficed.com/chat/) to engage 
 
 This Python script automates the process of capturing screenshots from TradingView charts and converting TradingView chart links into direct image URLs for sharing. It's a useful tool for traders and analysts who want to streamline the process of capturing and sharing TradingView chart images.
 
+#Setup 
+
+## Get your Tradingview Public Link
+
+- Access your chart settings on TradingView.
+- Change the sharing settings for your chart to "Public."
+- Copy the chart's public link.
+- Paste the copied chart link inside the tview_ss.py.py script.
+
+![TradingView Public](tview_public_amit.png)
+
 ## Prerequisites
 
 Before using this script, ensure you have the following prerequisites installed:
