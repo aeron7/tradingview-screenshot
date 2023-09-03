@@ -33,6 +33,13 @@ pip install selenium
 
 To download Chrome WebDriver, visit ChromeDriver Downloads.
 
+To install xclip, you can use the package manager specific to your Linux distribution.
+Ubuntu/Debian:
+```bash
+sudo apt-get update
+sudo apt-get install xclip
+```
+
 Usage
 Clone this repository to your local machine:
 ```bash
